@@ -2,10 +2,15 @@
 
 
 
+:star::star::star::star::star:  本项目遵从：[GNU General Public License v3.0](https://github.com/gy-7/monitoring_the_desktop/blob/main/LICENSE) 
+
+
+
 ## 个人博客『 gy77 』：
 
-- [x] [CSDN博客](https://blog.csdn.net/qq_39435411) 
-- [x] [博客园](https://www.cnblogs.com/gy77/) 
+- [x] [GitHub仓库](https://github.com/gy-7/monitoring_the_desktop) ：代码源码详见仓库 demo_qt.py
+- [x] [我的CSDN博客](https://blog.csdn.net/qq_39435411)  
+- [x] [我的博客园](https://www.cnblogs.com/gy77/) 
 
 
 
@@ -29,10 +34,6 @@ opencv-python: 4.5.5.62
 numpy: 1.21.6
 qimage2ndarray: 1.9.0
 ```
-
-
-
-
 
 
 
