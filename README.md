@@ -18,9 +18,8 @@
 
 利用PyQt5搭建界面，使用mmdeploy的api，加载转换好的TensorRT模型，监控桌面。
 
-分享一下我导出的yolox-s TensorRT模型（RTX 2060s，RTX 2060可用，其余的20系没测试，10系，30系显卡用不了）：[yolox-s TensorRT模型](https://wws.lanzouw.com/i6nfv09f8d5g) 
+分享一下我导出的yolox-s TensorRT模型（RTX 2060s，RTX 2060可用，其余的20系没测试，10系，30系显卡用不了）：[yolox-s TensorRT模型](https://download.csdn.net/download/qq_39435411/86399152) 
 
-如果链接挂了，可以发邮件给我：gaoying2020@163.com 
 
 
 
